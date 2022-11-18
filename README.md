@@ -1,9 +1,9 @@
 # BCR API
 
 ## [Notes]
-### 1. Jangan lupa ketikkan perintah "npm i" untuk memastikan semua dependencies terinstall dengan baik
-### 2. Ketikkan perintah "npm test" untuk melakukan testing
-### 3. Link deploy Railway: https://challenge8-fsw-production.up.railway.app/  
+ 1. Jangan lupa ketikkan perintah "npm i" untuk memastikan semua dependencies terinstall dengan baik
+ 2. Ketikkan perintah "npm test" untuk melakukan testing
+ 3. Link deploy Railway: ## https://challenge8-fsw-production.up.railway.app/  
        (Deploy railway belum sempurna, hanya bisa load halaman server awal)
 
 
