@@ -42,6 +42,7 @@ module.exports = {
   },
   production: {
     username: DB_USER,
+    database_url: 'postgresql://postgres:QkLueXl5hVwDArxxMLgp@containers-us-west-114.railway.app:7072/$railway',
     password: 'QkLueXl5hVwDArxxMLgp',
     database: 'railway',
     host: 'containers-us-west-114.railway.app',
