@@ -33,10 +33,10 @@ module.exports = {
   },
   production: {
     username: DB_USER,
-    password: DB_PASSWORD,
-    database: `${DB_NAME}_production`,
-    host: DB_HOST,
-    port: DB_PORT,
+    password: 'QkLueXl5hVwDArxxMLgp',
+    database: 'railway',
+    host: 'containers-us-west-114.railway.app',
+    port: '7072',
     dialect: 'postgres',
     ssl: true,
     dialectOptions: {
