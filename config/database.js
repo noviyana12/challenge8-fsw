@@ -19,12 +19,21 @@ const {
 module.exports = {
   development: {
     username: DB_USER,
+    password: 'admin',
+    database: 'binarcar_development',
+    host: '127.0.0.1',
+    port: '5432',
+    dialect: 'postgres',
+    ssl: true,
+    /*
+    username: DB_USER,
     password: DB_PASSWORD,
     database: `${DB_NAME}_development`,
     host: DB_HOST,
     port: DB_PORT,
     dialect: 'postgres',
     ssl: true,
+    */
   },
   test: {
     storage: DB_TEST_PATH,
